@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MsPlaced", "MsPlaced\MsPlaced.vbproj", "{24FFCA68-BE5C-4C5E-B458-7088E66A879C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B24256DE-1F64-4C3D-9505-508172B57BFA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24FFCA68-BE5C-4C5E-B458-7088E66A879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FFCA68-BE5C-4C5E-B458-7088E66A879C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FFCA68-BE5C-4C5E-B458-7088E66A879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FFCA68-BE5C-4C5E-B458-7088E66A879C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

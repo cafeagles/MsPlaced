@@ -1,0 +1,27 @@
+﻿body{
+    background-color: #e3e0d1;
+}
+
+h1{
+    font-size:72px;
+}
+h2{
+    font-size:52px;
+}
+header, footer{
+    font-family: 'Sacramento';
+    text-align: center;
+    padding: 20px;
+}
+
+header{
+    color:#bf005f;
+}
+
+footer{
+    color:#009999;
+}
+
+info-section-top{
+
+}
